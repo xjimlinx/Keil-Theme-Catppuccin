@@ -5,6 +5,8 @@ Keil C/C++ editor theme based on Cappuccin-Mocha
 
 ![Effect](Keil-Theme-Catppuccin-Mocha.png)
 
+![Effect2](Keil-Theme-Catppuccin-Mocha-2.png)
+
 ## 二、使用方法
 
 + 进入 **Keil v5** 安装目录，形如 **X:\Keil_v5\UV4**
