@@ -3,7 +3,7 @@
 
 Keil C/C++ editor theme based on Cappuccin-Mocha
 
-![](.\Keil-Theme-Catppuccin-Mocha.png)
+![Effect](Keil-Theme-Catppuccin-Mocha.png)
 
 ## 二、使用方法
 
